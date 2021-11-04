@@ -1,0 +1,62 @@
+img{
+  max-width: 70%;
+}
+
+body{
+  margin-top: 200px;
+  margin-left: 350px;
+}
+
+.info{
+  font-size: 20px;
+  width: 70%;
+  color: white;
+  background: rgb(240, 160, 100);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+p{
+  font: arial 20px;
+}
+
+.myInput {
+  width: 60%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+}
+
+.search{
+  border: 1px solid #ddd;
+  text-decoration-line: none;
+  color: black;
+  padding: 10px;
+  margin-top: 400px;
+}
+
+.search:hover{
+  background: white;
+  color: white;
+  border: 1px solid #ddd;
+}
+
+.button{
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(255, 100, 100);
+  background: rgb(255, 100, 100);
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 300px;
+}
+
+.button:hover{
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+  color: rgb(255, 30, 30);
+  margin-left: 290px;
+}
